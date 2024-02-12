@@ -1,0 +1,52 @@
+---
+title: "Ideas"
+author: "Sofia Villamil"
+date: "2024-02-10"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## Analyze Survey Data
+
+Start with a detailed analysis of the responses to question CQ19 from
+the Eurobarometer survey to identify the specific support levels across
+countries. Look for patterns or clusters of countries with similar
+levels of support or lack thereof, noting any outliers.
+
+## Country-Level Factors Analysis
+
+To understand the variations in support levels, examine the following
+country-level factors:
+
+### Cultural Norms and Societal Views on LGBTI Rights
+
+Assess how cultural norms and societal attitudes towards LGBTI
+individuals might influence policy-making and public opinion. This could
+include prevailing religious beliefs, traditional values, and historical
+attitudes towards gender and sexuality.
+
+### Legal Systems and Policies
+
+Review the legal frameworks in place for transgender rights, including
+the process for changing gender markers on official documents. Identify
+whether countries have explicit protections against discrimination for
+transgender individuals and how these legal protections are implemented
+in practice.
+
+### Economic Variables
+
+Consider the economic context, as countries with higher levels of
+economic development may have more resources to support transgender
+individuals, including healthcare and legal assistance. History
+Historical contexts, such as a country's path to democracy, colonial
+history, or past human rights records, can influence current societal
+attitudes and policies towards marginalized communities.
+
+## Comparative Analysis
+
+Use the data and country-level analysis to perform a comparative
+analysis between countries with high levels of support and those with
+low levels. Look for correlations between the country-level factors and
+the support levels identified in the survey.
